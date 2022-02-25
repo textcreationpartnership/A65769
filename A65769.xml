@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An account of the articles drawn up here in England by the East-India-Company against the king of Siam and remitted to their servants in India as a just ground to make war on that prince : together with a full answer to every particular as 'twas prepar'd to have been address'd to the honourable the knights, citizens and burgesses in Parliament assembled / by Samuel White ; and is now most humbly presented to their judicious consideration by his brother George White.</title>
+            <author>White, Samuel, ca. 1650-1689.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1689</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A65769</idno>
+            <idno type="STC">Wing W1804A</idno>
+            <idno type="STC">ESTC R38307</idno>
+            <idno type="EEBO-CITATION">17290965</idno>
+            <idno type="OCLC">ocm 17290965</idno>
+            <idno type="VID">106339</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A65769)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 106339)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1163:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An account of the articles drawn up here in England by the East-India-Company against the king of Siam and remitted to their servants in India as a just ground to make war on that prince : together with a full answer to every particular as 'twas prepar'd to have been address'd to the honourable the knights, citizens and burgesses in Parliament assembled / by Samuel White ; and is now most humbly presented to their judicious consideration by his brother George White.</title>
+                  <author>White, Samuel, ca. 1650-1689.</author>
+                  <author>White, George.</author>
+               </titleStmt>
+               <extent>4+ p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>1689?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imperfect: lacking all after p. 4.</note>
+                  <note>Imprint suggested by Wing.</note>
+                  <note>Reproduction of original in the Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Nārāi, --  King of Siam, 1632-1688.</term>
+               <term>East India Company.</term>
+               <term>British --  Thailand.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2008-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-05</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb n="1" facs="tcp:106339:1"/>
+            <head>AN ACCOUNT OF THE ARTICLES Drawn up here in <hi>ENGLAND</hi> by the Eaſt-India-Company AGAINST THE King of SIAM, And remitted to their Servants in <hi>India,</hi> as a juſt Ground to make War on that Prince; Together with a full Anſwer to every Particular; as 'twas prepar'd to have been Addreſs'd to the Honourable the Knights, Citizens and Burgeſſes in <hi>PARLIA<g ref="char:EOLhyphen"/>MENT</hi> Aſſembled: By <hi>Samuel White.</hi>
+            </head>
+            <head type="sub">And is now moſt humbly Preſented to their Judicious Conſideration, by his Brother <hi>George White.</hi>
+            </head>
+            <p>I Have already given a true Relation of ſome of the diſmal Effects of the War our <hi>Eaſt-India-Company</hi> has made with the King of <hi>Siam:</hi> And I cannot but ſuppoſe that every Engliſh-man will account himſelf ſo much a Party concern'd in't, to be very inquiſitive into the Grounds of this Quarrel, and deſirous to know what intolerable Aggreſſions on the Part of the ſaid King, has provok'd the <hi>Company</hi> to do violence to that ami<g ref="char:EOLhyphen"/>cable Temper that is genuine to our Nation; and for which, to my know<g ref="char:EOLhyphen"/>ledge, we have formerly been ſo much belov'd and eſteem'd in all Parts of <hi>India:</hi>
+               <pb n="2" facs="tcp:106339:2"/>I ſhall therefore render a faithful Account of this Matter; engaging my ſelf to prove all I affirm by undeniable Evidence, and then leave the Merits of the Cauſe to the Sentence of all Men in the World that can, and dare, judge im<g ref="char:EOLhyphen"/>partially and honeſtly, including in that Number thoſe very Members of the <hi>Eaſt-India</hi> Committee, who deſerve that laudable Character.</p>
+            <p>And firſt, I Premiſe (what I ſuppoſe will admit of no Objection) That the favourable Reception, and kind Treatment, which the Merchants of our Na<g ref="char:EOLhyphen"/>tion have always formerly receiv'd in that Countrey, has not been exceeded; if I may not ſay, equall'd, at any Place within the Limits of the <hi>Company</hi>'s <hi>Charter:</hi> Nor is it leſs true, that thoſe Courteſies have not ſometimes met with correſpon<g ref="char:EOLhyphen"/>dent Returns: For there is an old Story ſtill too new in thoſe Parts, That in the time of this King's Predeceſſor, the Factors then Reſident there, did privately withdraw themſelves when they were indebted to the King, ſo conſiderable a ſum as, <gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ty Thouſand pieces of Eight, on which Account the Trade was for many Years diſcontinu'd, till his preſent Majeſty to take of that Obſtruction, and give an obliging Invitation to the renewal of a Friendly Correſpondence and Commerce; did in the Year 1660 freely and fully forgive the ſaid Debt, by delivering the cancell'd Obligations to Mr. <hi>Richard Bladwell,</hi> who being then bound on a Voyage from <hi>Su<gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>at</hi> to <hi>M<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ccaſſer</hi> in the Service of Sir <hi>Matthew An<g ref="char:EOLhyphen"/>drews,</hi> was by adverſe Winds forc'd to take ſhelter in the chief Port of that King<g ref="char:EOLhyphen"/>dom; Whereby it appears That it has been in the Nature of this Benign Prince, to ſup<gap reason="illegible" resp="#UOM" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>trogate in generous Favours: But our preſent Buſineſs, is to enquire how he has ſince degenerated, and misbehaved himſelf, to incur the <hi>Company</hi>'s Diſpeaſure in ſo high a degree, as has engaged them to draw their Swords to chaſtiſe him: And that this may be fairly try'd, I will lay down the very Ar<g ref="char:EOLhyphen"/>ticles which were exhibited againſt the King; and examine the Validity and Juſtice of each of them particularly. Now their Demands were as followeth.</p>
+            <div type="table">
+               <head>The King of <hi>Siam</hi> is Debitor to the Honourable <hi>Eaſt-India-Company,</hi> for the following Particulars:</head>
+               <p>
+                  <table>
+                     <row>
+                        <cell role="label" cols="4"> </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>l.</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>s.</hi>
+                           </abbr>
+                        </cell>
+                        <cell role="label">
+                           <abbr>
+                              <hi>d.</hi>
+                           </abbr>
+                        </cell>
+                     </row>
+                     <row>
+                        <cell>FOR <hi>Richard Burneby</hi>'s Debt, from the 30th. of <hi>Sept.</hi> 1681. as by <hi>Siam</hi>-Journal <hi>H. fol.</hi> 5. and Journal <hi>I. fol.</hi> 13. <hi>Cattees</hi> 158 04 14. at <abbr>
+                              <hi>l.</hi>
+                           </abbr> 12 10. each <hi>Cattee</hi> is</cell>
+                        <cell>1984</cell>
+                        <cell>18</cell>
+                        <cell>05</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>For five Years and three Months Intereſt thereon, at 10 <hi>per Cent.</hi> yearly, In<g ref="char:EOLhyphen"/>tereſt on Intereſt,</cell>
+                        <cell>1157</cell>
+                        <cell>01</cell>
+                        <cell>07</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell cols="4"> </cell>
+                        <cell>3140</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For <hi>Thomas Ivat</hi>'s Debt, from 30 <hi>Sept.</hi> 1683, as <hi>per Siam</hi>-Leidger <hi>I. fol.</hi> 6. <hi>Cattees</hi> 9. 2. 8, at <abbr>
+                              <hi>l.</hi>
+                           </abbr> 12. 10. is ſter<g ref="char:EOLhyphen"/>ling</cell>
+                        <cell>0114</cell>
+                        <cell>01</cell>
+                        <cell>03</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>For 3 Years and 3 Months Intereſt, at 10 <hi>per Cent.</hi> accounting yearly Intereſt on Intereſt,</cell>
+                        <cell>0000</cell>
+                        <cell>41</cell>
+                        <cell>09</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell cols="4"> </cell>
+                        <cell>0155</cell>
+                        <cell>02</cell>
+                        <cell>00</cell>
+                     </row>
+                     <pb n="3" facs="tcp:106339:2"/>
+                     <row>
+                        <cell>For Goods loſt in the Fire, to the value of <hi>Cattees</hi> 114. 1. 3. as by Journal <hi>I. fol.</hi> 5, 6. Dated 30th. <hi>Decemb.</hi> 82. is Sterling.</cell>
+                        <cell>1793</cell>
+                        <cell>09</cell>
+                        <cell>00</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>For four Years Intereſt thereon,</cell>
+                        <cell>0832</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell cols="4"> </cell>
+                        <cell>2625</cell>
+                        <cell>08</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For Demorage of the <hi>Mexico</hi>-Merchant from the time of her Arrival there, being the 1ſt. of <hi>Sept.</hi> 1683. till her Departure, the 9th. of <hi>January</hi> 1683/4. is 131 days at <abbr>
+                              <hi>l.</hi>
+                           </abbr> 5. <hi>per diem,</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                        <cell>0655</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For impriſoning the Companies Factors and Servants, <hi>Peter Crouch, John Thomas,</hi> and <hi>Abraham Navarro,</hi> hindring their Trade by the Ship <hi>Delight.</hi>
+                        </cell>
+                        <cell cols="3"> </cell>
+                        <cell>2000</cell>
+                        <cell>00</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For the King's Debt, being <hi>Cattees</hi> 316. 15. 6. and ſeveral Debts, in all 332. 00 06. is together <hi>Cattees</hi> 648,15,12, as by <hi>Siam</hi> Journal <hi>I. fol.</hi> 13. Dated the 30th. <hi>Sept.</hi> 1683. is Sterling</cell>
+                        <cell>7999</cell>
+                        <cell>16</cell>
+                        <cell>10</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell>For 3 Years and 3 Months Intereſt at 10 <hi>per Cent.</hi> amount, accounting Inte<g ref="char:EOLhyphen"/>reſt on Intereſt,</cell>
+                        <cell>1881</cell>
+                        <cell>07</cell>
+                        <cell>02</cell>
+                        <cell cols="3"> </cell>
+                     </row>
+                     <row>
+                        <cell cols="4"> </cell>
+                        <cell>10791</cell>
+                        <cell>04</cell>
+                        <cell>00</cell>
+                     </row>
+                     <row>
+                        <cell>For the Charge of the Company's Fa<g ref="char:EOLhyphen"/>ctors, and impriſoning of their Perſons, beating ſome with Coffrees, over<g ref="char:EOLhyphen"/>throwing their Voyages, preventing their Acceſs to the King, to make their Complaint, and the inſufferable Diſho<g ref="char:EOLhyphen"/>nour done to the Company, and to our Nation in general, We demand</cell>
+                        <cell cols="3"> </cell>
+                        <cell>5000</cell>
+                        <cell>00</cell>
+                        <cell>09</cell>
+                     </row>
+                     <row>
+                        <cell cols="4"> </cell>
+                        <cell role="total">23366</cell>
+                        <cell>14</cell>
+                        <cell>09</cell>
+                     </row>
+                  </table>
+               </p>
+            </div>
+            <div type="part">
+               <p>This is an exact Copy of the Charge drawn up here in <hi>England</hi> againſt the King of <hi>Siam,</hi> and remitted to the <hi>Company's</hi> Servants at <hi>Fort St. George;</hi> But I will by no means do the <hi>Eaſt-India-Company</hi> that Diſhonour to call it Their Act; tho' this, as many other ſuch unaccountable things, has paſs'd under their Name: For as I ſhall always pay a moſt Profound Reſpect to thoſe Noble Lords who have condeſcended to be of the Committee; But can't be ſuppos'd to give themſelves the trouble of a particular inſpection into theſe Affairs; So I muſt alſo do right to ſome Honeſt Gentlemen that ſit amongſt 'em, who I am well aſſur'd could not be wanting to expreſs their Abhorrence of this Evil thing, if it had come to be regularly examin'd and debated in their Court: And after theſe <hi>Salv<gap reason="illegible" resp="#UOM" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>'s,</hi> in behalf of thoſe to whom they are due, I muſt likewiſe give another true Character, In declaring that HE or <hi>They</hi> who were the prime Projectors, or did with deliberate fore-thought, approve, or aſſent to, this In<g ref="char:EOLhyphen"/>ſtrument of Demand; were not only groſly ignorant of the Affairs of <hi>India,</hi> but even of the common Notions of Right and Wrong, according to the Sentiments of all the civiliz'd part of Mankind: Or if the failure was not from want of Sence, I am ſure it lays the heavier load of <hi>Guilt</hi> on the <hi>Conſciences</hi> of all are concern'd in't; As a brief Enquiry into the Articles will ſufficiently demonſtrate.</p>
+               <pb n="4" facs="tcp:106339:3" rendition="simple:additions"/>
+               <p>
+                  <hi>The firſt is, for</hi> Richard Burneby<hi>'s Debt, with Intereſt upon Intereſt,</hi> 3140 <abbr>l.</abbr>
+               </p>
+               <p>This Mr. <hi>Burneby,</hi> is that very Perſon I did occaſionaly mention in the Account of the <hi>diſmal Tragedy</hi> at <hi>Mergen,</hi> who after he return'd to <hi>Siam</hi> by leave of the <hi>Company's Factors</hi> then reſiding in <hi>Batavia.</hi> My Lord <hi>Phaulkon</hi> according to his accuſtomed kindneſs to thoſe of our Nation, promoted him to a conſider<g ref="char:EOLhyphen"/>able Employ in the King's Service, as he continu'd, till he unhappily loſt his Life at <hi>Mergen;</hi> And it ſeems he ſtands charg'd with this great Debt to the Company; which however it happens, unleſs it can be prov'd that the King did by Word or Deed become bound for it; It may with as much reaſon be de<g ref="char:EOLhyphen"/>manded of the Great-<hi>Cham,</hi> as the King of <hi>Siam.</hi>
+               </p>
+               <p>
+                  <hi>The next is,</hi> Tho. Ivat<hi>'s Debt, with Intereſt upon Intereſt,</hi> 155 <abbr>l.</abbr> 2 <abbr>s.</abbr> Which is an exact Copy of the former: For Mr. <hi>Ivat</hi> was one of the <hi>Company</hi>'s Factors who came to <hi>Siam</hi> with Mr. <hi>Gosfright,</hi> and remain'd there in joynt Commiſſion with <hi>Samuel Pots,</hi> 'till upon ſome difference 'twixt them two he left the <hi>Company</hi>'s Service, and was afterwards employ'd by the King of <hi>Siam</hi> on a meſſage to the Governour and Council of <hi>Fort St. George,</hi> to requeſt their aſſiſtance in procu<g ref="char:EOLhyphen"/>ring ſome Jewels for his Service: Of which unhappy Affair I ſhall ſay more afterwards, having only here to take notice, that Mr. <hi>Ivat</hi> dyed ſoon after his Arrival at the Fort on that expedition: But now how the King comes to be juſtly chargeable with his Debts to the Company, it lies upon the <hi>Author</hi> of the <hi>Articles</hi> to give the World ſome rational ſatisfaction.</p>
+               <p>But theſe two are ſcarce worth wondring at when we come to the third, which is <hi>for Goods loſt in the Fire and Intereſt thereon,</hi> 2625 <abbr>l.</abbr> 8 <abbr>s.</abbr> And this indeed is ſo ſurprizing a Demand, that I confeſs I know not how to anſwer it, becauſe I cannot poſſibly imagine what ſhould be the meaning of it; for ſurely 'tis not intended for thoſe Goods were deſtroy'd when the Factory was burnt? and yet I think it muſt be ſo, becauſe I never heard of any other Goods the Company loſt there by Fire: Wherefore taking it ſo at a ven<g ref="char:EOLhyphen"/>ture, I will tell the true Story of that unhappy Thing.</p>
+               <p>
+                  <hi>Samuel Pots</hi> whom I mention'd in the preceding Paragraph, was left by Mr. <hi>Gosfright</hi> Chief in Commiſſion for the <hi>Company</hi>'s Affairs: And tho' I hear he is ſince dead, I muſt not on this occaſion decline giving him his due Character, in declaring, that no Man could be more unfit for that Employ than he, who was a publick diſgrace to the Nation and a vexatious Trouble to all that were ever concern'd with him, as I will prove by ſundry credible Perſons now in <hi>England,</hi> who can ground their Atteſtations on their own Experience. This Man among his many other Irregularities took into his protection ſeveral lewd Mariners who had Rebell'd againſt their Com<g ref="char:EOLhyphen"/>mander, entertaining them as his Companions in the Factory, which was a Houſe of the King of <hi>Siams,</hi> part of Brick, and part of Timber, very commodious in all reſpects, and not contiguous with any other Buildings, but ſtood in the midſt of a large Yard enclos'd with a high Pale of Bamboes. And on the ſixth of <hi>December</hi> 1682, about Ten at Night, there broke out a Fire in a Room made of Boards, that ſtood in the midſt 'twixt the Timber and Brick-Buildings, formerly the Butler's Store-Houſe; But at that time the Rendezvouz of the foreſaid Seamen, whoſe roaring Revels there, were overheard by the Neighbourhood not above half an Hour before this happened: Mr. <hi>Potts</hi> was at a Friend's Houſe near home when it be<g ref="char:EOLhyphen"/>gan; And no ſooner got into the Yard, but inſtantly Arm'd himſelf and his Seamen, keeping the Gate faſt, under pretence of preventing any ones coming into ſteal, till ſuch time the Fire had got ſo much head, 'twas</p>
+            </div>
+            <gap reason="missing" extent="1 page">
+               <desc>〈1 page missing〉</desc>
+            </gap>
+         </div>
+      </body>
+   </text>
+</TEI>
